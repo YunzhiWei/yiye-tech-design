@@ -10,18 +10,18 @@ See also:
 
 <!-- toc -->
 
-- [Routes](#Part-1)
+- [Part 1](#Part-1)
   * [Database](#database)
   * [Homepage](#homepage)
-- [Extras](#Part-2)
+- [Part 2](#Part-2)
   * [CLI usage](#cli-usage)
   * [Module](#module)
     + [Rewriter example](#rewriter-example)
     + [Mounting JSON Server on another endpoint example](#mounting-json-server-on-another-endpoint-example)
   * [Deployment](#deployment)
-- [Links](#Part-3)
+- [Part 3](#Part-3)
   * [Third-party tools](#third-party-tools)
-- [License](#Part-4)
+- [Part 4](#Part-4)
 
 <!-- tocstop -->
 
